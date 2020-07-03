@@ -29,7 +29,7 @@ class AboutMePage extends React.Component {
                     I am a Software engineer specialised in backend development
                     for building complex web applications.I am very enthusiastic
                     to learn new technologies and can flexible to work with any
-                    tems.
+                    teams.
                   </div>
                   <div className="mb-4">
                     <Button
