@@ -89598,7 +89598,7 @@ var useStyles = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_1__["ma
     },
     drawerPaper: {
       width: drawerWidth,
-      background: "lightcoral"
+      background: "#54B689"
     },
     // necessary for content to be below app bar
     toolbar: theme.mixins.toolbar,
