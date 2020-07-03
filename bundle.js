@@ -89953,7 +89953,7 @@ function SideMenu() {
         columnNumber: 13
       }
     }),
-    text: "EXPERIENCES",
+    text: "EXPERIENCE",
     link: "/experience",
     index: 2
   }, {
@@ -89965,7 +89965,7 @@ function SideMenu() {
         columnNumber: 13
       }
     }),
-    text: "PROJECTS",
+    text: "PROJECT",
     link: "/projects",
     index: 1
   }, {
@@ -89977,7 +89977,7 @@ function SideMenu() {
         columnNumber: 13
       }
     }),
-    text: "BLOGS",
+    text: "BLOG",
     link: "/blogs",
     index: 3
   }];
