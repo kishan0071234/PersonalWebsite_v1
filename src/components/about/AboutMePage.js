@@ -1,4 +1,3 @@
-import ReceiptIcon from "@material-ui/icons/Receipt";
 import Skills from "./Skills";
 import Education from "./Education";
 import { connect } from "react-redux";
@@ -6,8 +5,6 @@ import * as schoolAction from "../../redux/actions/profileActions";
 import PropTypes from "prop-types";
 import { bindActionCreators } from "redux";
 import React from "react";
-import Button from "@material-ui/core/Button";
-import Resume from "../../images/Resume.pdf";
 import ProfileImage from "../../images/profile2.jpg";
 
 class AboutMePage extends React.Component {
@@ -30,16 +27,6 @@ class AboutMePage extends React.Component {
                     backend development for building complex Microserices and
                     Web applications.I am very enthusiastic to learn new
                     technologies and flexible to work with teams.
-                  </div>
-                  <div className="mb-4">
-                    <Button
-                      target="_blank"
-                      className="resumeButton"
-                      href={Resume}
-                    >
-                      <ReceiptIcon />
-                      <span className="d-none d-md-inline">View Resume</span>
-                    </Button>
                   </div>
                 </div>
                 <img

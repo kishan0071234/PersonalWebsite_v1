@@ -9,6 +9,9 @@ import EmailIcon from "@material-ui/icons/Email";
 import Grid from "@material-ui/core/Grid";
 import HomeIcon from "@material-ui/icons/Home";
 import ProfileImage from "../../images/profile.jpg";
+import ReceiptIcon from "@material-ui/icons/Receipt";
+import Button from "@material-ui/core/Button";
+import Resume from "../../images/Resume.pdf";
 
 const drawerWidth = 300;
 
@@ -67,6 +70,12 @@ export default function Header() {
         <Divider />
         <SideMenu />
         <br />
+        <div className="mb-4">
+          <Button target="_blank" className="resumeButton" href={Resume}>
+            <ReceiptIcon />
+            <span className="d-none d-md-inline">View Resume</span>
+          </Button>
+        </div>
         <br />
         <Divider />
         <div className="connect-grid">
