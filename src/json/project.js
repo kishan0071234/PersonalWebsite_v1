@@ -8,10 +8,11 @@ const projects = [
   },
   {
     id: 2,
-    description: "Fetching Top questions from the stackoverflow",
+    description: "Indexing Gmail Promotions Tabs to elasticsearch.",
     readme:
       "https://github.com/kishan0071234/Stack-Overflow/blob/master/README.md",
-    link: "https://github.com/kishan0071234/Stack-Overflow",
+    link:
+      "https://github.com/kishan0071234/ElasticSearch/blob/master/README.md",
   },
   {
     id: 3,
