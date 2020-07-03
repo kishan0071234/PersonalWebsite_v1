@@ -11,6 +11,7 @@ import { red } from "@material-ui/core/colors";
 import Grid from "@material-ui/core/Grid";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import { CardActionArea, Divider } from "@material-ui/core";
+import Medium from "../../images/medium.png";
 
 const BlogList = (blogs) => {
   const useStyles = makeStyles((theme) => ({
@@ -44,7 +45,7 @@ const BlogList = (blogs) => {
           <Grid item xs={6} key={item.id}>
             <Card className={classes.root} key={item.id}>
               <CardHeader
-                avatar={<Avatar src={item.url} />}
+                avatar={<Avatar src={Medium} />}
                 title={item.platform}
               />
               <Divider />
