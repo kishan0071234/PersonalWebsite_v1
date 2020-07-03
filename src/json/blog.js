@@ -6,7 +6,7 @@ const blogs = [
     link:
       "https://medium.com/@kishan007agarwal/secure-service-to-service-communication-using-public-key-cryptography-55da3c640a22",
     image: "https://miro.medium.com/max/554/1*ipcrE8iwwv-DX2GEMyeWOA.png",
-    platform: "MEDIUMS",
+    platform: "MEDIUM",
     url: "src/images/medium.png",
   },
 ];
