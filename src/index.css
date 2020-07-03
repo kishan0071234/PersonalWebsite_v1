@@ -1,0 +1,193 @@
+#app {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
+
+img.avatar {
+  height: 281px;
+  border-radius: 50%;
+}
+
+h4.name {
+  color: white;
+  padding-left: 54px;
+  padding-top: 30px;
+}
+
+.profile-info {
+  margin-bottom: -59px;
+}
+
+.profile-intro {
+  color: white;
+  padding-left: 10px;
+}
+
+.social-links {
+  padding-left: 6em;
+}
+
+.container-info {
+  background-color: #fafafa;
+}
+
+.profile-info-container {
+  background-color: #fafafa;
+}
+.profile-info-image {
+  height: 17em;
+  float: right;
+}
+
+.theme-bg-light {
+  background: #fafafa !important;
+}
+
+.flex-lg-row {
+  flex-direction: row !important;
+}
+
+.media-body {
+  flex: 1;
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.profile-teaser .name {
+  font-size: 3rem;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.profile-teaser .tagline {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+@media (min-width: 1200px) {
+  .profile-teaser .profile-image {
+    max-width: 197px;
+  }
+}
+
+@media (min-width: 992px) {
+  .p-lg-5 {
+    padding: 7rem !important;
+  }
+}
+@media (min-width: 992px) {
+  .ml-lg-5,
+  .mx-lg-5 {
+    margin-left: 3rem !important;
+  }
+}
+@media (min-width: 992px) {
+  .aboutme-container {
+    width: 66em !important;
+  }
+}
+.aboutme-container {
+  width: 76em;
+}
+
+.aboutme-child-container {
+  height: 13em;
+}
+
+.node circle {
+  fill: rgb(247, 106, 214);
+  stroke: rgb(184, 37, 81);
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 11px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: black;
+  fill: black;
+}
+
+h1.skills_header {
+  margin-left: 1em;
+  margin-top: 1em;
+  background-color: #fafafa !important;
+}
+
+h1.education_header {
+  margin-top: 1em;
+  margin-left: -1em;
+  margin-bottom: 1em;
+  background-color: #fafafa !important;
+}
+
+.education-container {
+  margin-left: 5em;
+}
+
+.courses-container {
+  margin-left: 6em !important;
+}
+
+.degree-text {
+  margin-left: 3em !important;
+  margin-top: 1em !important;
+  color: rgba(78, 52, 52, 0.54);
+}
+
+button:focus {
+  outline: 0px !important;
+}
+
+.linkText {
+  color: white;
+}
+
+.timeline {
+  padding-top: 2em;
+}
+
+.project-container {
+  padding-top: 28px;
+}
+
+.connect {
+  color: white;
+  padding-left: 4em;
+}
+.connect-grid {
+  padding-top: 1em;
+}
+
+.emailId {
+  color: black !important;
+}
+.email-move {
+  margin-left: 1em;
+}
+.footer {
+  margin-left: 27em;
+  margin-top: 4em;
+}
+.address {
+  margin-left: 2em;
+}
+
+.footer-sidemenu {
+  color: white;
+  padding-top: 2em;
+  padding-left: 1em;
+}
+.resumeButton {
+  color: #fff !important;
+  background-color: #6c757d !important;
+  border-color: #6c757d !important;
+}
