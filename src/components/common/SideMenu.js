@@ -18,19 +18,19 @@ export default function SideMenu() {
     },
     {
       icon: <WorkOutlineIcon />,
-      text: "EXPERIENCES",
+      text: "EXPERIENCE",
       link: "/experience",
       index: 2,
     },
     {
       icon: <AssignmentIcon />,
-      text: "PROJECTS",
+      text: "PROJECT",
       link: "/projects",
       index: 1,
     },
     {
       icon: <LibraryBooksIcon />,
-      text: "BLOGS",
+      text: "BLOG",
       link: "/blogs",
       index: 3,
     },
