@@ -26,10 +26,10 @@ class AboutMePage extends React.Component {
                   <h2 className="name font-weight-bold mb-1">Kishan Agarwal</h2>
                   <div className="tagline mb-6">Software Engineer</div>
                   <div className="bio mb-4">
-                    I am a Software engineer specialised in backend development
-                    for building complex web applications.I am very enthusiastic
-                    to learn new technologies and can flexible to work with any
-                    teams.
+                    I am a Software engineer with 3 years of experience in
+                    backend development for building complex Microserices and
+                    Web applications.I am very enthusiastic to learn new
+                    technologies and flexible to work with teams.
                   </div>
                   <div className="mb-4">
                     <Button

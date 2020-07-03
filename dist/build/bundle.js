@@ -88555,7 +88555,7 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
           lineNumber: 28,
           columnNumber: 19
         }
-      }, "I am a Software engineer specialised in backend development for building complex web applications.I am very enthusiastic to learn new technologies and can flexible to work with any teams."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_12___default.a.createElement("div", {
+      }, "I am a Software engineer with 3 years of experience in backend development for building complex Microserices and Web applications.I am very enthusiastic to learn new technologies and flexible to work with teams."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_12___default.a.createElement("div", {
         className: "mb-4",
         __self: this,
         __source: {
