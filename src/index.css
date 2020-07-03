@@ -191,3 +191,6 @@ button:focus {
   background-color: #6c757d !important;
   border-color: #6c757d !important;
 }
+.resumeButton {
+  margin-left: 42px;
+}
