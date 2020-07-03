@@ -9,7 +9,7 @@ import { red } from "@material-ui/core/colors";
 
 import Grid from "@material-ui/core/Grid";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import { CardActionArea } from "@material-ui/core";
+import { CardActionArea, Divider } from "@material-ui/core";
 import Github from "../../images/github.jpg";
 
 const ProjectDetails = (projects) => {
@@ -44,9 +44,11 @@ const ProjectDetails = (projects) => {
           <Grid item xs={6} key={item.id}>
             <Card className={classes.root} key={item.id}>
               <CardHeader avatar={<Avatar src={Github} />} title="GITHUB" />
+              <Divider />
               <Typography variant="h6">
                 <b>{item.description}</b>
               </Typography>
+
               <CardActionArea href={item.link} target="_blank">
                 <>
                   {item.id ? (
@@ -56,6 +58,7 @@ const ProjectDetails = (projects) => {
                   )}
                 </>
               </CardActionArea>
+              <Divider />
               <CardActionArea href={item.readme} target="_blank">
                 <Typography align="center">
                   <b>README</b>
