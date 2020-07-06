@@ -29,11 +29,6 @@ class AboutMePage extends React.Component {
                     technologies and flexible to work with teams.
                   </div>
                 </div>
-                <img
-                  className="profile-image mb-3 mb-lg-0 ml-lg-5 mr-md-0"
-                  src={ProfileImage}
-                  alt=""
-                ></img>
               </div>
             </div>
           </section>
