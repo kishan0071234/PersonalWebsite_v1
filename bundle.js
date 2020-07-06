@@ -88548,22 +88548,12 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
           lineNumber: 25,
           columnNumber: 19
         }
-      }, "I am a Software engineer with 3 years of experience in backend development for building complex Microserices and Web applications.I am very enthusiastic to learn new technologies and flexible to work with teams.")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("img", {
-        className: "profile-image mb-3 mb-lg-0 ml-lg-5 mr-md-0",
-        src: _images_profile2_jpg__WEBPACK_IMPORTED_MODULE_12__["default"],
-        alt: "",
-        __self: this,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 32,
-          columnNumber: 17
-        }
-      }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+      }, "I am a Software engineer with 3 years of experience in backend development for building complex Microserices and Web applications.I am very enthusiastic to learn new technologies and flexible to work with teams.")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         className: "education-container",
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 41,
+          lineNumber: 36,
           columnNumber: 9
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
@@ -88571,7 +88561,7 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42,
+          lineNumber: 37,
           columnNumber: 11
         }
       }, "Education"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(_Education__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -88579,7 +88569,7 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 43,
+          lineNumber: 38,
           columnNumber: 11
         }
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
@@ -88587,7 +88577,7 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 46,
+          lineNumber: 41,
           columnNumber: 9
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
@@ -88595,14 +88585,14 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 47,
+          lineNumber: 42,
           columnNumber: 11
         }
       }, "Skills Overview"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(_Skills__WEBPACK_IMPORTED_MODULE_5__["default"], {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 48,
+          lineNumber: 43,
           columnNumber: 11
         }
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
@@ -88610,7 +88600,7 @@ var AboutMePage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 50,
+          lineNumber: 45,
           columnNumber: 9
         }
       }, "\xA9 2020 Copyright: Kishan Agarwal"));
