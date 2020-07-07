@@ -89474,7 +89474,7 @@ var BlogPage = /*#__PURE__*/function (_React$Component) {
           lineNumber: 22,
           columnNumber: 19
         }
-      }, "Blogs")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Blog")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "project-container",
         __self: this,
         __source: {
@@ -90211,7 +90211,7 @@ var Experience = /*#__PURE__*/function (_React$Component) {
           lineNumber: 22,
           columnNumber: 19
         }
-      }, "Experiences")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Experience")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __self: this,
         __source: {
           fileName: _jsxFileName,
@@ -90830,12 +90830,12 @@ var ProjectPage = /*#__PURE__*/function (_React$Component) {
           lineNumber: 21,
           columnNumber: 19
         }
-      }, "Github Projects")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Github Project")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "project-container",
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29,
+          lineNumber: 27,
           columnNumber: 9
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_ProjectDetails__WEBPACK_IMPORTED_MODULE_10__["default"], {
@@ -90843,7 +90843,7 @@ var ProjectPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30,
+          lineNumber: 28,
           columnNumber: 11
         }
       })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
@@ -90851,7 +90851,7 @@ var ProjectPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 32,
+          lineNumber: 30,
           columnNumber: 9
         }
       }, "\xA9 2020 Copyright: Kishan Agarwal"));
