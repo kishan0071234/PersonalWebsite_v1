@@ -18,9 +18,7 @@ class ProjectPage extends React.Component {
             <div className="experience-child-container">
               <div className="profile-teaser media flex-column flex-lg-row">
                 <div className="media-body">
-                  <h2 className="name font-weight-bold mb-4">
-                    Github Projects
-                  </h2>
+                  <h2 className="name font-weight-bold mb-4">Github Project</h2>
                 </div>
               </div>
             </div>
