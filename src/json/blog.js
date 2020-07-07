@@ -9,6 +9,15 @@ const blogs = [
     platform: "MEDIUM",
     url: "src/images/medium.png",
   },
+  {
+    id: 2,
+    description: "Pagination Implementation in Microservices using MongoDB",
+    link:
+      "https://medium.com/@kishan007agarwal/pagination-implementation-in-microservices-using-mongodb-1342144f305",
+    image: "https://miro.medium.com/max/1400/1*0xWrAa7o8pYsacMTZk-Qjw.png",
+    platform: "MEDIUM",
+    url: "src/images/medium.png",
+  },
 ];
 
 module.exports = {
