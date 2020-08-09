@@ -1,6 +1,6 @@
 const experience = [
   {
-    company: "Esurance",
+    company: "AllState",
     position: "Software Engineer",
     employementType: "Full-time",
     location: "San Francisco Bay Area,CA",
