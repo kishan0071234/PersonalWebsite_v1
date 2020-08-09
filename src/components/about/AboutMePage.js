@@ -5,7 +5,6 @@ import * as schoolAction from "../../redux/actions/profileActions";
 import PropTypes from "prop-types";
 import { bindActionCreators } from "redux";
 import React from "react";
-import ProfileImage from "../../images/profile2.jpg";
 
 class AboutMePage extends React.Component {
   //const skillsData = require("../json/skills.json");
