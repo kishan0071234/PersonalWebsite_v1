@@ -10,7 +10,7 @@ import TimelineDot from "@material-ui/lab/TimelineDot";
 import Paper from "@material-ui/core/Paper";
 import Typography from "@material-ui/core/Typography";
 import Avatar from "@material-ui/core/Avatar";
-import EsuranceLogo from "../../images/esuranceLogo.png";
+import AllStateLogo from "../../images/allstate.png";
 import IBMLogo from "../../images/ibm1.png";
 import PurdueLogo2 from "../../images/purdueLogo2.png";
 import CharterGlobal from "../../images/charter-global.jpg";
@@ -44,8 +44,8 @@ const ExperienceTimeline = (experience) => {
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot>
-              {item.company == "Esurance" ? (
-                <Avatar src={EsuranceLogo} />
+              {item.company == "AllState" ? (
+                <Avatar src={AllStateLogo} />
               ) : null}
               {item.company == "IBM" ? <Avatar src={IBMLogo} /> : null}
               {item.company == "Purdue University Northwest" ? (
